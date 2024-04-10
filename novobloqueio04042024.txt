@@ -1,3 +1,4 @@
+;NOVA LISTA DE SITES BLOQUEADOS 04/04/2024
 ultraflix.net IN CNAME .
 *.ultraflix.net IN CNAME .
 ultraflix.cloud IN CNAME .
